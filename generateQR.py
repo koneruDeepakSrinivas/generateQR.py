@@ -1,3 +1,5 @@
+#This python code generates QR for the webpages 
+
 import qrcode
 
 input_URL = "https://www.google.com/"
